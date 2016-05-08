@@ -1,6 +1,6 @@
 {
   "name": "xiaoxpkuosbnpm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "xiaoxpkuosbnpm",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,10 @@
     "url": "git+https://github.com/xiaoxpkuo/xiaoxpkuosbnpm.git"
   },
   "keywords": [
-    "xiaoxpkuosbnpm"
+    "xiaoxpkuosbnpm",
+    "xiaoxpkuo",
+    "xiaoxpkuosb",
+    "sbnpm"
   ],
   "author": "xiaoxpkuo",
   "license": "MIT",
